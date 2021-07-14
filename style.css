@@ -1,0 +1,52 @@
+body {
+    background: lightgray;
+    font-family: Arial;
+    max-width: 900px;
+    margin: auto;
+}
+.img_rosana{
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+#title, .subtitle, .post_title {
+    color: darkblue;
+}
+
+#title{
+    font-size: 40px;
+    text-transform:none;
+}
+a {
+    color: red;
+}
+.post_title{
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post{
+    background: lightskyblue;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    text-transform: capitalize;
+}
+
+.texto_rosana{
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.img_familia {
+    margin-bottom: 15px;
+    border-radius: 20px;
+    width: 100%;
+}
+.lista_contatos{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
